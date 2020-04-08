@@ -1,0 +1,106 @@
+header div {
+background-color: black;
+}
+      
+#bodynav1 {
+  background: url("https://www.195district.com/_resources/common/images/userfiles/resized/IMG_7979_1272x0.jpg") no-repeat center fixed;
+  background-size: cover;
+  width: 100%;
+  height: 570px;}
+
+  
+ 
+
+
+  #logo1 {
+    height: 100px;
+     }
+
+#logo2{
+  margin-bottom: 4in; 
+  padding-bottom: 2in;
+  height: 100px;
+ }
+
+#client {
+    text-align: center;
+    padding-bottom: 50px;
+  }
+
+.home {
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 30px;
+}
+
+
+.item2{
+font-family: 'Times New Roman', Times, serif;
+font-size: 0.5cm;
+color: white;
+}
+.nav-item{
+color: white;
+}
+
+  footer {
+    background-color: black;
+    width: 100%;
+    border: solid black ;
+    }
+    footer h4 {
+        font-family: sans-serif;
+        color: white;
+    }
+    #menber{
+      text-align: center;
+      margin: 1in;
+  }
+  #organisation{
+      text-align: center;
+      margin: 0.25in;
+     }
+
+     
+ #aboutus{
+      text-align: center;
+      margin: 1in;
+    }
+  .jumbotron{
+      text-align: center;
+      font-size-adjust: inherit;
+   }
+
+   #CIC{
+     font-style:italic;
+    color: white;
+    position:absolute;
+    padding-right: 20px;
+   text-align: center;
+   margin-left: 3in;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size: 1.75cm;
+    }
+
+    .item1{
+      font-family: 'Times New Roman', Times, serif;
+     padding: 35px;
+     font-size: 0.75cm;
+     
+    }
+    .nav1{
+      margin-bottom: 3.5in;
+       }
+
+      
+
+   #apply{
+        margin-bottom: 0.5in;
+    }
+    #careers{
+        margin-bottom: 1in;
+        margin-top: 1in;
+        text-align: center;
+    }
+       
+      
